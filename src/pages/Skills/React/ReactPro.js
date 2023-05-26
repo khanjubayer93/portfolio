@@ -11,7 +11,7 @@ const ReactPro = () => {
                     <h1 className='font-semibold text-xl text-sky-500 uppercase group-hover:text-white'>React</h1>
                 </div>
                 <p className='group-hover:text-white'>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi eligendi unde, neque eaque reiciendis illo esse saepe earum natus quis?
+                    React is a popular JavaScript library for building user interfaces. It allows developers to create reusable components, enabling efficient and dynamic rendering of data in web applications.
                 </p>
             </div>
         </Link>

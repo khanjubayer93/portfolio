@@ -11,7 +11,7 @@ const Nodejs = () => {
                     <h1 className='font-semibold text-xl text-sky-500 uppercase group-hover:text-white'>Node js</h1>
                 </div>
                 <p className='group-hover:text-white'>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi eligendi unde, neque eaque reiciendis illo esse saepe earum natus quis?
+                    Node.js is a JavaScript runtime environment that allows running server-side applications. It's efficient, event-driven, and ideal for building scalable and high-performance web servers, APIs, and real-time applications.
                 </p>
             </div>
         </Link>

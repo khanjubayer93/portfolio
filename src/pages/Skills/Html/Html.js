@@ -12,7 +12,7 @@ const Html = () => {
                     <h1 className='font-semibold text-xl text-sky-500 uppercase group-hover:text-white'>Html</h1>
                 </div>
                 <p className='group-hover:text-white'>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi eligendi unde, neque eaque reiciendis illo esse saepe earum natus quis?
+                    HTML is a markup language used for creating web pages, defining structure, content, and presentation. It's the foundation of the web.
                 </p>
             </div>
         </Link>

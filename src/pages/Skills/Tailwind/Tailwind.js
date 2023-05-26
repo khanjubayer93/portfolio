@@ -11,7 +11,7 @@ const Tailwind = () => {
                     <h1 className='font-semibold text-xl text-sky-500 uppercase group-hover:text-white'>Tailwind</h1>
                 </div>
                 <p className='group-hover:text-white'>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi eligendi unde, neque eaque reiciendis illo esse saepe earum natus quis?
+                    Tailwind CSS is a utility-first CSS framework that enables rapid UI development. With its extensive utility classes, it provides flexibility and efficiency in creating custom designs and responsive layouts without writing custom CSS.
                 </p>
             </div>
         </Link>

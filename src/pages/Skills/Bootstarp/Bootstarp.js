@@ -11,7 +11,7 @@ const Bootstarp = () => {
                     <h1 className='font-semibold text-xl text-sky-500 uppercase group-hover:text-white'>Bootstrap</h1>
                 </div>
                 <p className='group-hover:text-white'>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi eligendi unde, neque eaque reiciendis illo esse saepe earum natus quis?
+                    Bootstrap is a powerful front-end framework for building responsive websites. It offers a comprehensive set of tools, components, and layouts that simplify and speed up the development process.
                 </p>
             </div>
         </Link>

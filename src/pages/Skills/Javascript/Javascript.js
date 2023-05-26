@@ -11,7 +11,7 @@ const Javascript = () => {
                     <h1 className='font-semibold text-xl text-sky-500 uppercase group-hover:text-white'>Javascript</h1>
                 </div>
                 <p className='group-hover:text-white'>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi eligendi unde, neque eaque reiciendis illo esse saepe earum natus quis?
+                    JavaScript React is a powerful combination for building interactive web applications. React leverages JavaScript's versatility to create reusable UI components and provide a seamless user experience.
                 </p>
             </div>
         </Link>

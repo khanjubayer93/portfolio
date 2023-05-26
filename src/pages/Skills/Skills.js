@@ -7,6 +7,10 @@ import ReactPro from './React/ReactPro';
 import Javascript from './Javascript/Javascript';
 import Nodejs from './Nodejs/Nodejs';
 import Github from './Github/Github';
+import { Link } from 'react-router-dom';
+import { FaCode } from 'react-icons/fa';
+
+// 
 
 const Skills = () => {
     return (
