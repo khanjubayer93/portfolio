@@ -10,7 +10,7 @@ const Nodejs = () => {
                     <FaNodeJs className='text-5xl text-sky-500 rounded-lg group-hover:text-white' />
                     <h1 className='font-semibold text-xl text-sky-500 uppercase group-hover:text-white'>Node js</h1>
                 </div>
-                <p className='group-hover:text-white'>
+                <p className='group-hover:text-white line-clamp-6'>
                     Node.js is a JavaScript runtime environment that allows running server-side applications. It's efficient, event-driven, and ideal for building scalable and high-performance web servers, APIs, and real-time applications.
                 </p>
             </div>

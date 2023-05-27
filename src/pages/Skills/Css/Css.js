@@ -11,8 +11,8 @@ const Css = () => {
                     <BsFiletypeCss className='text-5xl text-sky-500 group-hover:text-white' />
                     <h1 className='font-semibold text-xl text-sky-500 uppercase group-hover:text-white'>Css</h1>
                 </div>
-                <p className='group-hover:text-white'>
-                    CSS (Cascading Style Sheets) is a stylesheet language that enhances HTML by controlling the visual appearance of web pages, including layout, colors, and fonts.
+                <p className='group-hover:text-white line-clamp-6'>
+                    CSS (Cascading Style Sheets) is a stylesheet language used to control the visual presentation of HTML elements on a webpage. It allows developers to specify styles like colors, fonts, layouts, and animations. CSS separates the structure and content from the design, enabling consistent and appealing web designs.
                 </p>
             </div>
         </Link>

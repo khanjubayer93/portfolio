@@ -10,7 +10,7 @@ const ReactPro = () => {
                     <FaReact className='text-5xl text-sky-500 group-hover:text-white' />
                     <h1 className='font-semibold text-xl text-sky-500 uppercase group-hover:text-white'>React</h1>
                 </div>
-                <p className='group-hover:text-white'>
+                <p className='group-hover:text-white line-clamp-6'>
                     React is a popular JavaScript library for building user interfaces. It allows developers to create reusable components, enabling efficient and dynamic rendering of data in web applications.
                 </p>
             </div>

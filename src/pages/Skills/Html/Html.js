@@ -11,8 +11,8 @@ const Html = () => {
                     <FaCode className='text-5xl text-sky-500 group-hover:text-white' />
                     <h1 className='font-semibold text-xl text-sky-500 uppercase group-hover:text-white'>Html</h1>
                 </div>
-                <p className='group-hover:text-white'>
-                    HTML is a markup language used for creating web pages, defining structure, content, and presentation. It's the foundation of the web.
+                <p className='group-hover:text-white line-clamp-6'>
+                    HTML (Hypertext Markup Language) is a fundamental language used to create webpages. It defines the structure and content of a webpage by using tags. HTML tags are used to mark up elements like headings, paragraphs, links, images, and more. It forms the backbone of the World Wide Web.
                 </p>
             </div>
         </Link>

@@ -11,7 +11,7 @@ const Github = () => {
                     <FiGithub className='text-5xl text-sky-500 group-hover:text-white' />
                     <h1 className='font-semibold text-xl text-sky-500 uppercase group-hover:text-white'>Github</h1>
                 </div>
-                <p className='group-hover:text-white line-clamp-4'>
+                <p className='group-hover:text-white line-clamp-6'>
                     GitHub is a web-based platform for version control and collaborative software development. It enables teams to manage and share code, track changes, and facilitate efficient collaboration on projects.
                 </p>
             </div>
