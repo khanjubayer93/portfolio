@@ -1,6 +1,6 @@
 import React from 'react';
 
-const resumeFilePDFURL = 'http://localhost:3000/jubayer-resume.pdf'
+const resumeFilePDFURL = 'https://portfolio-dc99f.web.app/jubayer-resume.pdf'
 const Resume = () => {
     const downloadResumeFile = (url) => {
         const fileName = url.split("/").pop();

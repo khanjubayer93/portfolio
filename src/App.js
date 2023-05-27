@@ -6,7 +6,7 @@ import { Toaster } from 'react-hot-toast';
 
 function App() {
   return (
-    <div className="App">
+    <div className="scroll-smooth">
       <RouterProvider router={router}>
 
       </RouterProvider>

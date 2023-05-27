@@ -41,7 +41,7 @@ export default function Education() {
     return (
         <div className='border-b-2 border-gray-300'>
             <div className='text-center mt-20'>
-                <h1 className='text-5xl font-extrabold text-slate-500'>Education</h1>
+                <h1 className='text-5xl font-extrabold text-sky-500'>Education</h1>
             </div>
             <div className="w-full  px-2 py-16 sm:px-2 lg:px-10" id='5'>
                 <Tab.Group>

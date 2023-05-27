@@ -16,8 +16,8 @@ const Contact = () => {
     return (
         <div className='lg:h-[900px] border-b-2 border-gray-300 my-20' id='7'>
             <div className='text-center mb-10'>
+                <h1 className='text-5xl font-extrabold mb-5 uppercase text-sky-500'>Contact</h1>
                 <h2 className='text-red-500'>Contact With Me</h2>
-                <h1 className='text-5xl font-extrabold mb-5 uppercase'>Contact</h1>
             </div>
 
             <div className='lg:flex gap-5 mx-10 mb-20'>
